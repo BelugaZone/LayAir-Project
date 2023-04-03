@@ -1,0 +1,9 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="test/main.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="test/Joystick.ui" props="" ifExport="内嵌模式" aName=""/>
+   <item name="test/ENTRANCE.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="menu.scene" props="" ifExport="加载模式" aName=""/>
+   <item name="test/menu.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="test/preview.scene" props="" ifExport="内嵌模式" aName=""/>
+</page>

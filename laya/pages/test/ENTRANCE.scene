@@ -1,0 +1,27 @@
+{
+    "x":0,
+    "type":"Scene",
+    "selectedBox":2,
+    "selecteID":20,
+    "searchKey":"Scene",
+    "props":{"sceneWidth":1136,"sceneHeight":600,"sceneColor":"#000000","runtime":"script/ENTRANCE.ts","hitTestPrior":false},
+    "nodeParent":-1,
+    "maxID":21,
+    "label":"Scene",
+    "isOpen":true,
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":2,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}
